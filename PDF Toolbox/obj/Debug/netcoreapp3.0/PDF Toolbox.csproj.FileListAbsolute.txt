@@ -1,0 +1,43 @@
+G:\projects\PdfToolbox\PDF Toolbox\bin\Debug\netcoreapp3.0\appsettings.Development.json
+G:\projects\PdfToolbox\PDF Toolbox\bin\Debug\netcoreapp3.0\appsettings.json
+G:\projects\PdfToolbox\PDF Toolbox\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+G:\projects\PdfToolbox\PDF Toolbox\bin\Debug\netcoreapp3.0\PDF Toolbox.exe
+G:\projects\PdfToolbox\PDF Toolbox\bin\Debug\netcoreapp3.0\PDF Toolbox.deps.json
+G:\projects\PdfToolbox\PDF Toolbox\bin\Debug\netcoreapp3.0\PDF Toolbox.runtimeconfig.json
+G:\projects\PdfToolbox\PDF Toolbox\bin\Debug\netcoreapp3.0\PDF Toolbox.runtimeconfig.dev.json
+G:\projects\PdfToolbox\PDF Toolbox\bin\Debug\netcoreapp3.0\PDF Toolbox.dll
+G:\projects\PdfToolbox\PDF Toolbox\bin\Debug\netcoreapp3.0\PDF Toolbox.pdb
+G:\projects\PdfToolbox\PDF Toolbox\bin\Debug\netcoreapp3.0\PDF Toolbox.Views.dll
+G:\projects\PdfToolbox\PDF Toolbox\bin\Debug\netcoreapp3.0\PDF Toolbox.Views.pdb
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\PDF Toolbox.csprojAssemblyReference.cache
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\staticwebassets\PDF Toolbox.StaticWebAssets.Manifest.cache
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\staticwebassets\PDF Toolbox.StaticWebAssets.xml
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\PDF Toolbox.MvcApplicationPartsAssemblyInfo.cache
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\PDF Toolbox.RazorComponent.input.cache
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\RazorDeclaration\App.razor.g.cs
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\RazorDeclaration\Pages\Error.razor.g.cs
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\RazorDeclaration\Pages\Index.razor.g.cs
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\RazorDeclaration\_Imports.razor.g.cs
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\RazorDeclaration\PDF Toolbox.dll
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\PDF Toolbox.TagHelpers.input.cache
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\PDF Toolbox.TagHelpers.output.cache
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\PDF Toolbox.RazorCoreGenerate.cache
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\Razor\App.razor.g.cs
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\Razor\Pages\Error.razor.g.cs
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\Razor\Pages\Index.razor.g.cs
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\Razor\Shared\MainLayout.razor.g.cs
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\Razor\Shared\NavMenu.razor.g.cs
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\Razor\_Imports.razor.g.cs
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\Razor\Pages\_Host.cshtml.g.cs
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\PDF Toolbox.RazorAssemblyInfo.cache
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\PDF Toolbox.RazorAssemblyInfo.cs
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\PDF Toolbox.AssemblyInfoInputs.cache
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\PDF Toolbox.AssemblyInfo.cs
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\PDF Toolbox.RazorTargetAssemblyInfo.cache
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\PDF Toolbox.RazorTargetAssemblyInfo.cs
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\PDF Toolbox.Views.pdb
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\PDF Toolbox.dll
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\PDF Toolbox.pdb
+G:\projects\PdfToolbox\PDF Toolbox\obj\Debug\netcoreapp3.0\PDF Toolbox.csproj.CopyComplete
