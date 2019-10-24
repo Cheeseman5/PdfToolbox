@@ -29,6 +29,6 @@
 > this is the initial UI wireframe of the main app and is subject to change
 
 ##### General app wireframe
-[![overview-wireframe PNG](https://github.com/Cheeseman5/PdfToolbox/blob/add-docs/docs/images/layout_wireframe_initial_overview.PNG?raw=true)]()
+[![overview-wireframe PNG](https://github.com/Cheeseman5/PdfToolbox/blob/master/docs/images/layout_wireframe_initial_overview.PNG?raw=true)]()
 ##### Context menu wireframe
-[![menu-context-wireframe PNG](https://github.com/Cheeseman5/PdfToolbox/blob/add-docs/docs/images/layout_wireframe_initial_menu_context.PNG?raw=true)]()
+[![menu-context-wireframe PNG](https://github.com/Cheeseman5/PdfToolbox/blob/master/docs/images/layout_wireframe_initial_menu_context.PNG?raw=true)]()
