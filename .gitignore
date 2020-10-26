@@ -1,4 +1,4 @@
 .vs/PdfToolbox/v16/
 .vs/PdfToolbox/DesignTimeBuild
-PDF Toolbox/bin/*
-PDF Toolbox/obj/*
+.PDF Toolbox/bin/Debug/
+.PDF Toolbox/obj/Debug/

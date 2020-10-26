@@ -8,26 +8,30 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\David\\.nuget\\packages\\": {}
+    "C:\\Users\\Dave\\.nuget\\packages\\": {},
+    "F:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projects\\PdfToolbox\\PDF Toolbox\\PDF Toolbox.csproj",
+      "projectUniqueName": "G:\\projects\\PdfToolbox\\PDF Toolbox\\PDF Toolbox.csproj",
       "projectName": "PDF Toolbox",
-      "projectPath": "E:\\projects\\PdfToolbox\\PDF Toolbox\\PDF Toolbox.csproj",
-      "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "E:\\projects\\PdfToolbox\\PDF Toolbox\\obj\\",
+      "projectPath": "G:\\projects\\PdfToolbox\\PDF Toolbox\\PDF Toolbox.csproj",
+      "packagesPath": "C:\\Users\\Dave\\.nuget\\packages\\",
+      "outputPath": "G:\\projects\\PdfToolbox\\PDF Toolbox\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "F:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "F:\\Users\\Dave\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "F:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "F:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -53,24 +57,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.0.1, 3.0.1]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.0.3, 3.0.3]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.0.0, 3.0.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.0.0, 3.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -79,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "F:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
