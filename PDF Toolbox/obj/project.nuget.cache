@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mantjrp8ztqq2CQYloQC1pErT0r0eE7cpF1BkMpiNDepoDaXP+FRvV9t9IXa4z6fT5qWPySULONcsMkm0vUiLw==",
+  "success": true,
+  "projectFilePath": "E:\\projects\\PdfToolbox\\PDF Toolbox\\PDF Toolbox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
