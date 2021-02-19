@@ -1,0 +1,18 @@
+﻿@using System.Collections;
+
+<div class="DocumentsView">
+    <ul class="nav flex-column">
+        @foreach (var document in fauxDocuments)
+        {
+        <li class="nav-item px-3">
+            <Document filePath="@document"/>
+        </li>
+        }
+    </ul>
+</div>
+
+
+@functions {
+
+    List<string> fauxDocuments = new List<string> { "test document 1", "test document 2", "test document 3"};
+}
