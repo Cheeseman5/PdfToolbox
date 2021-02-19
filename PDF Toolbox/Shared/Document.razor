@@ -1,0 +1,15 @@
+﻿<div class="Document" @onclick="OnDocumentSelect">
+    @filePath
+</div>
+
+
+@code {
+    private Document _document;
+    [Parameter]
+    public string filePath { get; set; } = "test document file path";
+
+    private void OnDocumentSelect()
+    {
+        filePath += " clicked!";
+    }
+}
